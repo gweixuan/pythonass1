@@ -1,5 +1,6 @@
 recipients_name = input("what's the recipient's name?")
-age=2023-1987
+recipients_birth_year= input("what's the recipient's birth year?")
+age=2023-int(recipients_birth_year)
 short_personalized_message="wish you being dumb for 100 years!"
 senders_name="weixuan"
 
