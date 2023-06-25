@@ -1,4 +1,4 @@
-recipients_name = "Hodei"
+recipients_name = input("what's the recipient's name?")
 age=2023-1987
 short_personalized_message="wish you being dumb for 100 years!"
 senders_name="weixuan"
