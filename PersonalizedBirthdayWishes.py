@@ -1,8 +1,8 @@
-recipients_name = input("what's the recipient's name?")
-recipients_birth_year= input("what's the recipient's birth year?")
+recipients_name = input("what's the recipient's name? ")
+recipients_birth_year= input("what's the recipient's birth year? ")
 age=2023-int(recipients_birth_year)
 short_personalized_message=input("Add a personalized message: ")
-senders_name="weixuan"
+senders_name=input ("put the senders name: ")
 
 
 print(f"""{recipients_name},let's celebrate your {age} years of awesomeness! 
